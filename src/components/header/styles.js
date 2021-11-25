@@ -48,7 +48,7 @@ export const HeaderSearchButton = styled.button`
     height: 30px;
     border-radius: 15px;
     border: none;
-    background: #ff0011;
+    background: #5eff00;
     margin-left: 10px;
     display: flex;
     align-items: center;
