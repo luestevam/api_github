@@ -48,12 +48,12 @@ export const HeaderSearchButton = styled.button`
     height: 30px;
     border-radius: 15px;
     border: none;
-    background: #FF7A00;
+    background: #ff0011;
     margin-left: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #FFF;
+    color: #fff;
     transition: ease .3s;
 
     &:hover {

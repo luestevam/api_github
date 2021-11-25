@@ -19,15 +19,17 @@ export const Username = styled.h2`
     text-align: center;
     font-size: 10px;
     color: #777;
-    padding: 5px;
+    padding: 10px;
 `
 export const Description = styled.p`
     width: 300px;
     height: 30px
     margin: 10px 0;
     font-size: 13px;
+    align-items: center;
     text-align: justify;
     color: #777;
+    padding-left: 50px;
     line-height: 1.3;
     overflow: hidden;
     @media(max-width: 430px){

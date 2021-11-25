@@ -26,7 +26,7 @@ const Header = () =>{
 
     return(
     <HeaderSection>
-        <HeaderTitle>Github Profile</HeaderTitle>
+        <HeaderTitle>Github Repositório</HeaderTitle>
         <HeaderInputContainer>
             <HeaderInput value={searchedValue} onChange={e => setSearchedValue(e.target.value)} />
             
